@@ -1,0 +1,15 @@
+current directory: /Users/edsonbatista/Desktop/Projetos/sales/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20170326-6238-1g0lb69.rb extconf.rb
+creating Makefile
+
+current directory: /Users/edsonbatista/Desktop/Projetos/sales/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/edsonbatista/Desktop/Projetos/sales/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/edsonbatista/Desktop/Projetos/sales/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170326-6238-v8fmx7
